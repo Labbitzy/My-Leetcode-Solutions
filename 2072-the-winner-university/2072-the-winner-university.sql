@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select case when (select sum(score >= 90) from NewYork) > (select sum(score >= 90) from California) then 'New York University' when (select sum(score >= 90) from NewYork) < (select sum(score >= 90) from California) then 'California University' else 'No Winner' end as winner;
