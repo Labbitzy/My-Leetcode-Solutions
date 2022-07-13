@@ -1,11 +1,4 @@
 # Write your MySQL query statement below
-select t1.machine_id, round(end_total - start_total,3) as processing_time
-from (select machine_id, sum(timestamp)/count(*) as start_total
+select machine_id, round(sum(case when activity_type = 'end' then timestamp else -timestamp end)/count(distinct process_id),3) as processing_time
 from Activity
-where activity_type = 'start'
-group by machine_id)t1
-join (select machine_id, sum(timestamp)/count(*) as end_total
-from Activity
-where activity_type = 'end'
-group by machine_id)t2
-on t1.machine_id = t2.machine_id;
+group by machine_id;
