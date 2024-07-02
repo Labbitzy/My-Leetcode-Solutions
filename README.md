@@ -13,4 +13,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2841-bikes-last-time-used](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/2841-bikes-last-time-used) |
 | [3097-total-traveled-distance](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3097-total-traveled-distance) |
 | [3155-highest-salaries-difference](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3155-highest-salaries-difference) |
+| [3256-find-candidates-for-data-scientist-position](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3256-find-candidates-for-data-scientist-position) |
 <!---LeetCode Topics End-->
