@@ -17,4 +17,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3258-classifying-triangles-by-lengths](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3258-classifying-triangles-by-lengths) |
 | [3282-calculate-compressed-mean](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3282-calculate-compressed-mean) |
 | [3284-find-expensive-cities](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3284-find-expensive-cities) |
+| [3287-loan-types](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3287-loan-types) |
 <!---LeetCode Topics End-->
