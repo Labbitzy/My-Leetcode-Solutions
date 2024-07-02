@@ -15,4 +15,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3155-highest-salaries-difference](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3155-highest-salaries-difference) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3258-classifying-triangles-by-lengths](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3258-classifying-triangles-by-lengths) |
+| [3282-calculate-compressed-mean](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3282-calculate-compressed-mean) |
 <!---LeetCode Topics End-->
