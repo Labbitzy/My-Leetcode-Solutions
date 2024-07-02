@@ -18,4 +18,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3282-calculate-compressed-mean](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3282-calculate-compressed-mean) |
 | [3284-find-expensive-cities](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3284-find-expensive-cities) |
 | [3287-loan-types](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3287-loan-types) |
+| [3365-find-all-unique-email-domains](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3365-find-all-unique-email-domains) |
 <!---LeetCode Topics End-->
