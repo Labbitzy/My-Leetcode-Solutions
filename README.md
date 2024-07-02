@@ -20,4 +20,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3287-loan-types](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3287-loan-types) |
 | [3365-find-all-unique-email-domains](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3365-find-all-unique-email-domains) |
 | [3457-invalid-tweets-ii](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3457-invalid-tweets-ii) |
+| [3481-second-day-verification](https://github.com/Labbitzy/My-Leetcode-Solutions/tree/master/3481-second-day-verification) |
 <!---LeetCode Topics End-->
